@@ -12,7 +12,7 @@ Hola este es mi juego de la serpiente
 
 | Roll | Desarrollador |
 | :--- |     :---      |
-| Desarrollador | [Cuervita]() |
+| Desarrollador | [Cuervita](https://github.com/rezemd56-hash) |
 
 ##Instalacion 
 
