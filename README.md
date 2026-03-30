@@ -4,7 +4,7 @@ Hola este es mi juego de la serpiente
 ---
 
 ##Imagen de mi proyecto 
-![snake Cover]()
+![snake Cover](https://files.catbox.moe/9jx9ss.jpeg)
 
 ---
 
