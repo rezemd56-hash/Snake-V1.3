@@ -14,6 +14,10 @@ Hola este es mi juego de la serpiente
 | :--- |     :---      |
 | Desarrollador | [Cuervita](https://github.com/rezemd56-hash) |
 
-##Instalacion 
+<details>
+   <summary>Instalacion</summary>
 
-https://rezemd56-hash.github.io/Snake-V1.3/ 
+[Snake-V1.3](https://rezemd56-hash.github.io/Snake-V1.3/ 
+)
+
+</details>
